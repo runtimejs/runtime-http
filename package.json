@@ -1,0 +1,19 @@
+{
+  "name": "runtime-http",
+  "version": "0.0.0",
+  "description": "HTTP protocol implementation for runtime.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:runtimejs/runtime-http.git"
+  },
+  "author": "runtime.js project authors",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/runtimejs/runtime-http/issues"
+  },
+  "homepage": "http://runtimejs.org"
+}
